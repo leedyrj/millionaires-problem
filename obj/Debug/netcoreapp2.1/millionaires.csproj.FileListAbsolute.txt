@@ -1,0 +1,11 @@
+C:\Users\Robert\workspace\csharp\excercises\millionaires\bin\Debug\netcoreapp2.1\millionaires.deps.json
+C:\Users\Robert\workspace\csharp\excercises\millionaires\bin\Debug\netcoreapp2.1\millionaires.runtimeconfig.json
+C:\Users\Robert\workspace\csharp\excercises\millionaires\bin\Debug\netcoreapp2.1\millionaires.runtimeconfig.dev.json
+C:\Users\Robert\workspace\csharp\excercises\millionaires\bin\Debug\netcoreapp2.1\millionaires.dll
+C:\Users\Robert\workspace\csharp\excercises\millionaires\bin\Debug\netcoreapp2.1\millionaires.pdb
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.csprojAssemblyReference.cache
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.csproj.CoreCompileInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.AssemblyInfoInputs.cache
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.AssemblyInfo.cs
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.dll
+C:\Users\Robert\workspace\csharp\excercises\millionaires\obj\Debug\netcoreapp2.1\millionaires.pdb
